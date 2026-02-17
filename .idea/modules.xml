@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/bitweeklytest2.iml" filepath="$PROJECT_DIR$/bitweeklytest2.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/githuh-intellji-demo.iml" filepath="$PROJECT_DIR$/githuh-intellji-demo.iml" />
+>>>>>>> 140911fbd9e27c6c01d38f7eaa93635727b42bf4
     </modules>
   </component>
 </project>
