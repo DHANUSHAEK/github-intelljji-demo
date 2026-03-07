@@ -1,5 +1,5 @@
 public class CompareVersionNumber {
-    static int compareVersion(String version1,String version2){
+     static int compareVersion(String version1,String version2){
      int left=0,right=0;
      int vers1=version1.length();
      int vers2=version2.length();
